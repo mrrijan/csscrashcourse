@@ -1,0 +1,22 @@
+#FirstPara {
+           height : 700px ;
+           width  : 1000x;
+           background-color : red;
+           /* border : 3px solid black ; */
+           border-width: 3px;
+           border-style: solid;
+           border-color: black; 
+           background-image: url('https://img.freepik.com/free-vector/skull-gaming-with-joy-stick-emblem-modern-style_32991-492.jpg?w=2000');
+           background-repeat: no-repeat;
+           background-position: center center ;
+           border-radius: 8px;
+}
+#SecondPara{
+        height :100px;
+        width : 250px;
+        background-color: blue;
+        border-top: 12px solid red ;
+        border-top-left-radius: 8px;
+
+
+}
